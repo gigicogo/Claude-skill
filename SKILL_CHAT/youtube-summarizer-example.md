@@ -1,32 +1,22 @@
 # Esempio output – youtube-summarizer.skill
 
 ## Video di partenza
-Titolo: ...
-Link: ...
+Titolo: Stanford CS230 | Autumn 2025 | Lecture 8: Agents, Prompts, and RAG
+Link: https://youtu.be/k1njvbBmfsw
 
 ## Obiettivo
 Riassumere il contenuto in modo chiaro, sintetico e utile per un lettore non tecnico.
 
 ## Output generato
-[qui incolli l’output]
-
-## Perché è un buon esempio
-- Evidenzia i concetti chiave
-- Riduce la lunghezza senza perdere il senso
-- Mantiene un tono leggibile e divulgativo
-
 
 ---
 
 # Beyond LLM: Potenziare le Applicazioni con Large Language Models
 **Corso:** CS230 Deep Learning — Stanford University | **Durata:** ~1h 49m
 
----
-
 ## 📌 Panoramica
 Lezione pratica del corso CS230 di Stanford che accompagna gli studenti dal concetto di neurone singolo fino alla progettazione di sistemi AI agentici complessi. Il docente mappa l'intero stack di tecniche disponibili per potenziare un LLM base — dal prompting al RAG fino ai workflow multi-agente — con un orientamento esplicitamente professionale e applicativo.
 
----
 
 ## 🔑 Punti chiave
 - I modelli LLM base hanno limitazioni strutturali: conoscenza non aggiornata, contesto limitato, difficoltà di controllo, lacune su domini specifici
@@ -38,7 +28,6 @@ Lezione pratica del corso CS230 di Stanford che accompagna gli studenti dal conc
 - I sistemi **multi-agente** abilitano parallelismo, specializzazione e riuso degli agenti
 - Il futuro passa per nuove architetture, multimodalità e velocità di cambiamento senza precedenti
 
----
 
 ## 📖 Contenuto dettagliato
 
@@ -66,7 +55,14 @@ Vantaggio principale: parallelismo e riusabilità degli agenti tra team diversi.
 ### 8. Tendenze Future `[01:43]`
 Plateau degli LLM e necessità del prossimo salto architetturale; multimodalità come fonte di guadagni trasversali; integrazione di più paradigmi di apprendimento ispirata all'apprendimento umano; velocità di cambiamento come ragione per preferire comprensione ampia a competenze tecniche specifiche (half-life delle skill molto basso).
 
----
-
 ## 💡 Conclusioni e Takeaway
 La lezione offre una mappa pratica completa: si parte dal prompting come prima leva flessibile, si sale verso RAG e workflow agentici per gestire complessità crescente. Il messaggio centrale è evitare il fine-tuning quando possibile, investire nella valutazione sistematica, e pensare ai sistemi AI come si pensa al management. In un campo che cambia ogni sei mesi, la priorità non è padroneggiare ogni tecnica, ma costruire la capacità di capire e imparare velocemente.
+
+
+---
+
+
+## Perché è un buon esempio
+- Evidenzia i concetti chiave
+- Riduce la lunghezza senza perdere il senso
+- Mantiene un tono leggibile e divulgativo
