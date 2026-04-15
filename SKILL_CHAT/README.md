@@ -24,9 +24,10 @@ Ogni file definisce una singola skill, con istruzioni e contesto già ottimizzat
 
 ### 2. youtube-summarizer.skill
 
-- **Scopo**: generare documenti strutturati da video You Tube in lingua inglese.
-- **Uso tipico**: report, manualistica, approfondimenti, supporto didattico, ecc.. tradotti in lingua italiana.
+- **Scopo**: generare documenti strutturati a partire da video YouTube in lingua inglese.
+- **Uso tipico**: report, manualistica, approfondimenti, supporto didattico e sintesi in lingua italiana.
 - **Input consigliato**: basta richiamare la skill e incollare il link al video.
+- **Esempio di output**: [Apri l’esempio](./youtube-summarizer-example.md)
 
 ---
 
