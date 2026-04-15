@@ -1,5 +1,27 @@
-Collezione di skill che funzionano su Claude suddivise per metodo di generazione
-1. Interazione assistita per generare una skill;
-2. Interazione manuale se si hanno i rudimenti necessari per costruire la skill senza aiuti;
-3. Accesso al repository di Claude (o ad altri contenitori web) per sfruttare esempi o modelli già pronti;
-4. Supporto della/delle community o dei social (si, si trovano skill pronte ovunque e tanti utenti in grado di migliorarle).
+# Claude-skill – Raccolta di skill per LLM
+
+Questo repository raccoglie skill e materiale didattico per creare e usare skill su Claude (e, in molti casi, anche su altri LLM compatibili).  
+È pensato come supporto pratico per chi vuole progettare prompt strutturati, workflow e “mini‑tool” conversazionali.
+
+## Cosa trovi in questo repository
+
+- **MANUAL_CHAT/**  
+  Skill e materiali per creare skill **manualmente**, passo passo, senza assistenti automatici.  
+  Utile se vuoi capire la logica dietro una skill e imparare a costruirla da zero.
+
+- **SKILL_CHAT/**  
+  Skill pronte all’uso per la chat (es. descrizioni di città, contenuti per video, testi divulgativi).  
+  Ogni file rappresenta una singola skill; il README della cartella spiega come usarle.
+
+In futuro potrebbero essere aggiunte altre sezioni (es. integrazioni con API, esempi per altri modelli, ecc.).
+
+## A chi è utile
+
+- Creator, docenti e comunicatori che vogliono usare LLM in modo **strutturato**, non solo con prompt “al volo”.
+- Chi sta imparando a progettare skill riutilizzabili per progetti di content creation, formazione o consulenza.
+- Chi desidera esempi concreti da adattare ai propri contesti.
+
+## Come usare queste risorse
+
+1. Esplora le cartelle (`MANUAL_CHAT`, `SKILL_CHAT`) in base al tuo livello di partenza.
+2. 
