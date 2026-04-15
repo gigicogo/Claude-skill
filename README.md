@@ -11,7 +11,7 @@ Questo repository raccoglie skill e materiale didattico per creare e usare skill
 
 - **SKILL_CHAT/**  
   Skill pronte all’uso per la chat (es. descrizioni di città, contenuti per video, testi divulgativi).  
-  Ogni file rappresenta una singola skill; il README della cartella spiega come usarle.
+  Ogni file rappresenta una singola skill; il README della cartella spiega come usarle e, dove disponibile, collega esempi di output.
 
 In futuro potrebbero essere aggiunte altre sezioni (es. integrazioni con API, esempi per altri modelli, ecc.).
 
@@ -24,7 +24,10 @@ In futuro potrebbero essere aggiunte altre sezioni (es. integrazioni con API, es
 ## Come usare queste risorse
 
 1. Esplora le cartelle (`MANUAL_CHAT`, `SKILL_CHAT`) in base al tuo livello di partenza.
-2. 
+2. Apri i file `.md` per leggere spiegazioni, istruzioni e contesto d’uso.
+3. Apri i file `.skill` per vedere la struttura operativa delle skill.
+4. Se disponibile, consulta i file di esempio output per capire il tipo di risultato che la skill può generare.
+5. Copia e adatta le skill nel tuo ambiente di lavoro con Claude o altri LLM compatibili.
 
 ## Risorse collegate
 
