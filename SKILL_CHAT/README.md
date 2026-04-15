@@ -22,11 +22,11 @@ Ogni file definisce una singola skill, con istruzioni e contesto già ottimizzat
   - testi per voice-over di walkthrough urbani.
 - **Input consigliato**: nome della città, periodo storico di interesse, eventuale focus (arte, architettura, vita quotidiana).
 
-### 2. NOME-ALTRA-SKILL.skill
+### 2. youtube-summarizer.skill
 
-- **Scopo**: … (breve descrizione di cosa fa la skill).
-- **Uso tipico**: … (es. “ideazione prompt per corsi online”, “generazione piani editoriali”, ecc.).
-- **Input consigliato**: … (che tipo di info dare al modello per ottenere il massimo).
+- **Scopo**: generare documenti strutturati da video You Tube in lingua inglese.
+- **Uso tipico**: report, manualistica, approfondimenti, supporto didattico, ecc.. tradotti in lingua italiana.
+- **Input consigliato**: basta richiamare la skill e incollare il link al video.
 
 ---
 
