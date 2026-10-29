@@ -1,4 +1,4 @@
-# Claude-skill – Raccolta di skill per LLM
+# Claude-skill – Raccolta di skill per uso didattico
 
 Questo repository raccoglie skill e materiale didattico per creare e usare skill su Claude (e, in molti casi, anche su altri LLM compatibili).  
 È pensato come supporto pratico per chi vuole progettare prompt strutturati, workflow e “mini‑tool” conversazionali.
@@ -29,6 +29,7 @@ In futuro potrebbero essere aggiunte altre sezioni (es. integrazioni con API, es
 - Creator, docenti e comunicatori che vogliono usare LLM in modo **strutturato**, non solo con prompt “al volo”.
 - Chi sta imparando a progettare skill riutilizzabili per progetti di content creation, formazione o consulenza.
 - Chi desidera esempi concreti da adattare ai propri contesti.
+- Formatori e consulenti
 
 ## Come usare queste risorse
 
