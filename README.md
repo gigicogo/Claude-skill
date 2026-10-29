@@ -5,6 +5,15 @@ Questo repository raccoglie skill e materiale didattico per creare e usare skill
 
 ## Cosa trovi in questo repository
 
+- **AI-PA/**  
+  Skill pronte all’uso per compiti specifici della PA. Sono usate principalmente nei corsi di formazione per i quali vengo ingaggiato.
+| 1. Sintesi circolare | `sintesi-circolare` | Circolare fittizia sportello |
+| 2. Semplificazione linguistica | `semplificazione-linguistica` | Avviso scritto in burocratese |
+| 3. Checklist atto | `checklist-atto` | Bozza di determinazione + schema inventato |
+| 4. Verifica di coerenza | `verifica-coerenza` | Circolare + sintesi/bozza errata |
+| 5. Preparazione FAQ | `preparazione-faq` | FAQ a partire dalla circolare |
+| 6. Report da dati | `report-da-dati` | CSV con dati fittizi e metriche verificabili |
+  
 - **MANUAL_CHAT/**  
   Skill e materiali per creare skill **manualmente**, passo passo, senza assistenti automatici.  
   Utile se vuoi capire la logica dietro una skill e imparare a costruirla da zero.
