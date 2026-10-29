@@ -32,17 +32,24 @@ In futuro potrebbero essere aggiunte altre sezioni (es. integrazioni con API, es
 
 ## Come usare queste risorse
 
-1. Esplora le cartelle (`MANUAL_CHAT`, `SKILL_CHAT`) in base al tuo livello di partenza.
+1. Esplora le cartelle (`MANUAL_CHAT`, `SKILL_CHAT`, 'AI-PA') in base al tuo livello di partenza.
 2. Apri i file `.md` per leggere spiegazioni, istruzioni e contesto d’uso.
 3. Apri i file `.skill` per vedere la struttura operativa delle skill.
 4. Se disponibile, consulta i file di esempio output per capire il tipo di risultato che la skill può generare.
 5. Copia e adatta le skill nel tuo ambiente di lavoro con Claude o altri LLM compatibili.
 
-## Risorse collegate
+## 📄 Licenza
 
-Se questi materiali ti sono utili, puoi seguire anche il resto del lavoro che faccio su AI generativa e divulgazione:
+Da definire: si suggerisce una licenza aperta (es. MIT o CC BY 4.0) per favorire il riuso da parte di altri formatori o altri enti. Sostituisci questo paragrafo con il testo della licenza scelta e il file `LICENSE` del repo.
 
-- **Newsletter** – https://gigicogo.substack.com - approfondimenti, casi d’uso e strumenti su AI generativa e content creation.  
-- **Articoli** – https://webeconoscenza.gigicogo.it - guide e riflessioni su Medium / blog, con esempi pratici di utilizzo delle skill.  
-- **Video e podcast** – https://www.youtube.com/@gigicogo - Guide, interviste e tutorial su IA Generativa.
+## 👤 Autore e contesto
+
+**Gianluigi Cogo** Content creator e technical writer interessato ad AI generativa, automazioni, viaggi e strumenti digitali. Consulente e docente sui temi dell'IA generativa nella Pubblica Amministrazione.
+
+L'app nasce come esercitazione nel percorso operativo *"L'IA nella Pubblica Amministrazione — Percorso operativo per l'uso consapevole, sicuro e governato dell'IA generativa"* (20 ore: percorso base per funzionari ed esecutori + modulo governance per direttori e dirigenti). Per info sul corso contattatemi usando i social qui sotto.
+
+- 📮 Newsletter: [gigicogo.substack.com](https://gigicogo.substack.com)
+- 📝 Blog: [medium.com/webeconoscenza](https://medium.com/webeconoscenza)
+- ▶️ YouTube: [youtube.com/@gigicogo](https://www.youtube.com/@gigicogo)
+- 💼 LinkedIn: [linkedin.com/in/gigicogo](https://it.linkedin.com/in/gigicogo)
 
